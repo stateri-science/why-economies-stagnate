@@ -1,0 +1,61 @@
+iso3,name,group,wb_name,region,income_group,lending_type,capital_city
+ARG,Argentina,A,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,Buenos Aires
+GRC,Greece,A,Greece,Europe & Central Asia,High income,Not classified,Athens
+LBN,Lebanon,A,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,IBRD,Beirut
+LKA,Sri Lanka,A,Sri Lanka,South Asia,Upper middle income,IDA,Colombo
+ECU,Ecuador,A,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD,Quito
+GHA,Ghana,A,Ghana,Sub-Saharan Africa ,Lower middle income,IDA,Accra
+ZMB,Zambia,A,Zambia,Sub-Saharan Africa ,Lower middle income,IDA,Lusaka
+MOZ,Mozambique,A,Mozambique,Sub-Saharan Africa ,Low income,IDA,Maputo
+PAK,Pakistan,A,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Blend,Islamabad
+EGY,Egypt,A,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,IBRD,Cairo
+TUN,Tunisia,A,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,IBRD,Tunis
+SUR,Suriname,A,Suriname,Latin America & Caribbean ,Upper middle income,Blend,Paramaribo
+UKR,Ukraine,A,Ukraine,Europe & Central Asia,Upper middle income,IBRD,Kiev
+JAM,Jamaica,A,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD,Kingston
+VEN,Venezuela,B,"Venezuela, RB",Latin America & Caribbean ,Lower middle income,IBRD,Caracas
+ZWE,Zimbabwe,B,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend,Harare
+TUR,Turkiye,B,Turkiye,Europe & Central Asia,Upper middle income,IBRD,Ankara
+BOL,Bolivia,B,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD,La Paz
+PER,Peru,B,Peru,Latin America & Caribbean ,Upper middle income,IBRD,Lima
+SDN,Sudan,B,Sudan,Sub-Saharan Africa ,Low income,IDA,Khartoum
+BLR,Belarus,B,Belarus,Europe & Central Asia,Upper middle income,IBRD,Minsk
+ISL,Iceland,C,Iceland,Europe & Central Asia,High income,Not classified,Reykjavik
+IRL,Ireland,C,Ireland,Europe & Central Asia,High income,Not classified,Dublin
+ESP,Spain,C,Spain,Europe & Central Asia,High income,Not classified,Madrid
+PRT,Portugal,C,Portugal,Europe & Central Asia,High income,Not classified,Lisbon
+CYP,Cyprus,C,Cyprus,Europe & Central Asia,High income,Not classified,Nicosia
+LVA,Latvia,C,Latvia,Europe & Central Asia,High income,Not classified,Riga
+JPN,Japan,C,Japan,East Asia & Pacific,High income,Not classified,Tokyo
+THA,Thailand,C,Thailand,East Asia & Pacific,Upper middle income,IBRD,Bangkok
+KOR,Korea Rep,C,"Korea, Rep.",East Asia & Pacific,High income,Not classified,Seoul
+NGA,Nigeria,D,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend,Abuja
+AGO,Angola,D,Angola,Sub-Saharan Africa ,Lower middle income,IBRD,Luanda
+DZA,Algeria,D,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,IBRD,Algiers
+IRQ,Iraq,D,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,IBRD,Baghdad
+RUS,Russia,D,Russian Federation,Europe & Central Asia,High income,IBRD,Moscow
+MNG,Mongolia,D,Mongolia,East Asia & Pacific,Upper middle income,IBRD,Ulaanbaatar
+ITA,Italy,E,Italy,Europe & Central Asia,High income,Not classified,Rome
+ZAF,South Africa,E,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,Pretoria
+BRA,Brazil,E,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,Brasilia
+MEX,Mexico,E,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,Mexico City
+PHL,Philippines,E,Philippines,East Asia & Pacific,Upper middle income,IBRD,Manila
+MMR,Myanmar,E,Myanmar,East Asia & Pacific,Lower middle income,IDA,Naypyidaw
+IRN,Iran,E,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,IBRD,Tehran
+USA,United States,F,United States,North America,High income,Not classified,Washington D.C.
+DEU,Germany,F,Germany,Europe & Central Asia,High income,Not classified,Berlin
+GBR,United Kingdom,F,United Kingdom,Europe & Central Asia,High income,Not classified,London
+FRA,France,F,France,Europe & Central Asia,High income,Not classified,Paris
+CHE,Switzerland,F,Switzerland,Europe & Central Asia,High income,Not classified,Bern
+SWE,Sweden,F,Sweden,Europe & Central Asia,High income,Not classified,Stockholm
+NLD,Netherlands,F,Netherlands,Europe & Central Asia,High income,Not classified,Amsterdam
+POL,Poland,F,Poland,Europe & Central Asia,High income,IBRD,Warsaw
+CZE,Czechia,F,Czechia,Europe & Central Asia,High income,Not classified,Prague
+SGP,Singapore,F,Singapore,East Asia & Pacific,High income,Not classified,Singapore
+MYS,Malaysia,F,Malaysia,East Asia & Pacific,Upper middle income,IBRD,Kuala Lumpur
+IDN,Indonesia,F,Indonesia,East Asia & Pacific,Upper middle income,IBRD,Jakarta
+IND,India,F,India,South Asia,Lower middle income,IBRD,New Delhi
+CHN,China,F,China,East Asia & Pacific,Upper middle income,IBRD,Beijing
+VNM,Vietnam,F,Viet Nam,East Asia & Pacific,Upper middle income,IBRD,Hanoi
+CHL,Chile,F,Chile,Latin America & Caribbean ,High income,IBRD,Santiago
+BWA,Botswana,F,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD,Gaborone

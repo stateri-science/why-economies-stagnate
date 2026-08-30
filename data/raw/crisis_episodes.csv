@@ -1,0 +1,63 @@
+iso3,episode_id,name,start_year,end_year,types,peak_annual_inflation_pct,peak_to_trough_real_gdp_pct,debt_gdp_peak_pct,imf_program,default_type,resolution,dates_verified,notes
+ARG,ARG_1975,Rodrigazo to hyperinflation,1975,1991,inflation_crisis|hyperinflation|currency|sovereign_default,,,,Y,external,Convertibility Plan 1991 pegged peso to USD,False,Two hyperinflation peaks (1989 and 1990); Brady deal 1992-93
+ARG,ARG_1998,Convertibility collapse,1998,2002,triple|sovereign_default|banking|currency,,,,Y,external|domestic,Peg abandoned; corralito deposit freeze; 2005/2010 restructurings,False,Largest sovereign default to that date; holdout litigation ran to 2016
+ARG,ARG_2018,Sudden stop to 2020 default,2018,2020,currency|sovereign_default|sudden_stop,,,,Y,external,2020 exchange of foreign-law bonds,False,Record USD 57bn IMF SBA in 2018
+VEN,VEN_2013,Bolivarian collapse,2013,2021,hyperinflation|sovereign_default|fiscal_dominance,,,,N,external,Unresolved; arrears ongoing,False,Official statistics largely cease after 2015
+ZWE,ZWE_1997,Land reform to dollarisation,1997,2009,hyperinflation|currency|fiscal_dominance,,,,N,,Abandoned own currency; USD adopted 2009,False,Multiple redenominations break local-currency series
+ZWE,ZWE_2019,Second inflation wave,2019,2023,inflation_crisis|currency,,,,N,,Repeated currency reintroductions,False,
+LBN,LBN_2019,Peg collapse and bank freeze,2019,2024,triple|sovereign_default|banking|currency,,,,N,external,Unresolved; no restructuring agreement,False,Informal capital controls; multiple parallel exchange rates
+LKA,LKA_2021,Debt and FX crisis,2021,2023,sovereign_default|balance_of_payments|currency,,,,Y,external,2023 EFF; bondholder deal 2024,False,Fuel and power shortages; government fell 2022
+GRC,GRC_2009,Euro-area sovereign crisis,2009,2018,sovereign_default|banking|debt_restructuring,,,,Y,domestic|external,PSI haircut 2012; three programmes to 2018,False,Fiscal data revised sharply in 2009-10
+TUR,TUR_2000,Banking crisis,2000,2001,twin|banking|currency,,,,Y,,Crawling peg abandoned; bank recapitalisation,False,
+TUR,TUR_2018,Lira crises,2018,2024,currency|inflation_crisis,,,,N,,Rate normalisation from mid-2023,False,Extended period of policy rates far below inflation
+ISL,ISL_2008,Banking system collapse,2008,2011,banking|currency,,,,Y,,Three largest banks resolved; capital controls to 2017,False,Bank assets were a large multiple of GDP
+IRL,IRL_2008,Property bubble to bank bailout,2008,2013,banking|fiscal,,,,Y,,Blanket guarantee; NAMA; EU-IMF programme,False,Bank recapitalisation cost drove the fiscal deficit spike
+ESP,ESP_2008,Cajas and property bust,2008,2014,banking|fiscal,,,,Y,,ESM bank recapitalisation 2012; SAREB,False,Unemployment peaked above 25 percent
+PRT,PRT_2010,Sovereign programme,2010,2014,debt_restructuring|fiscal,,,,Y,,EU-IMF programme; exit 2014,False,No haircut; adjustment via austerity
+CYP,CYP_2012,Bail-in,2012,2015,banking|sovereign_default,,,,Y,,Depositor bail-in 2013; capital controls,False,Exposure to Greek debt was the transmission channel
+LVA,LVA_2008,Internal devaluation,2008,2010,sudden_stop|banking,,,,Y,,Peg held; wage and fiscal deflation instead,False,Parex Bank nationalised
+JPN,JPN_1990,Bubble burst and lost decades,1990,2003,banking|deflation,,,,N,,Bank resolution 1998-2003; ZIRP,False,Deflation rather than inflation crisis
+THA,THA_1997,Baht float and Asian crisis,1997,1999,twin|banking|currency|sudden_stop,,,,Y,,Baht floated July 1997; IMF programme,False,Trigger for the wider Asian crisis
+KOR,KOR_1997,Asian crisis,1997,1998,sudden_stop|banking|currency,,,,Y,,Largest IMF programme at the time; chaebol reform,False,Sharp V-shaped recovery
+IDN,IDN_1997,Asian crisis and regime change,1997,2000,triple|banking|currency|sudden_stop,,,,Y,,IBRA bank restructuring; Suharto resigned 1998,False,Largest output loss of the Asian crisis countries
+MYS,MYS_1997,Asian crisis with capital controls,1997,1999,currency|banking,,,,N,,Pegged ringgit and imposed capital controls; no IMF programme,False,Used as the counterexample to IMF conditionality
+MEX,MEX_1982,Debt crisis and lost decade,1982,1989,sovereign_default|currency,,,,Y,external,Brady Plan 1989-90,False,Opened the Latin American debt crisis
+MEX,MEX_1994,Tequila crisis,1994,1995,currency|banking|sudden_stop,,,,Y,,US-IMF rescue package; FOBAPROA bank bailout,False,
+BRA,BRA_1980,Hyperinflation to Real Plan,1980,1994,hyperinflation|sovereign_default|fiscal_dominance,,,,Y,external,Real Plan 1994; Brady deal 1994,False,Several failed stabilisation plans preceded the Real
+BRA,BRA_1998,Currency crisis,1998,1999,currency,,,,Y,,Real floated January 1999; inflation targeting adopted,False,
+RUS,RUS_1991,Transition depression,1991,1998,inflation_crisis|fiscal_dominance,,,,Y,,Stabilisation after 1998,False,Very large cumulative output loss over the transition
+RUS,RUS_1998,GKO default,1998,1998,sovereign_default|currency|banking,,,,Y,domestic,Domestic debt default and rouble devaluation,False,"Default on local-currency debt, which is unusual"
+RUS,RUS_2022,Sanctions regime,2022,2024,external_shock|capital_controls,,,,N,,Capital controls; reserves frozen,False,Technical external default in 2022 via payment blockage
+UKR,UKR_1991,Transition collapse,1991,1999,hyperinflation|inflation_crisis,,,,Y,,Hryvnia introduced 1996,False,
+UKR,UKR_2014,Annexation and banking crisis,2014,2015,currency|banking|sovereign_default,,,,Y,external,2015 debt reprofiling; PrivatBank nationalised 2016,False,
+UKR,UKR_2022,Full-scale invasion,2022,2024,external_shock|sovereign_default,,,,Y,external,2022 payment standstill; 2024 restructuring,False,
+ECU,ECU_1998,Sucretisation to dollarisation,1998,2000,triple|sovereign_default|banking|currency,,,,Y,external,Adopted the US dollar in 2000,False,Deposit freeze preceded dollarisation
+ECU,ECU_2008,Repudiation default,2008,2009,sovereign_default,,,,N,external,Bought back discounted bonds,False,Default framed as illegitimate-debt repudiation
+ECU,ECU_2020,Pandemic default,2020,2020,sovereign_default,,,,Y,external,Restructured 2020,False,
+PER,PER_1985,Hyperinflation and Fujishock,1985,1992,hyperinflation|sovereign_default,,,,Y,external,1990 stabilisation; Brady deal 1997,False,
+BOL,BOL_1982,Hyperinflation,1982,1986,hyperinflation|sovereign_default,,,,Y,external,1985 New Economic Policy stabilisation,False,Classic case study in orthodox stabilisation
+CHL,CHL_1982,Debt crisis,1982,1985,banking|currency|sovereign_default,,,,Y,,Bank interventions; peg abandoned,False,Precedes the later growth record
+GHA,GHA_2022,Domestic debt exchange,2022,2024,sovereign_default|inflation_crisis,,,,Y,domestic|external,DDEP 2023; ECF; bondholder deal 2024,False,
+ZMB,ZMB_2020,Eurobond default,2020,2024,sovereign_default,,,,Y,external,First Common Framework restructuring,False,Long delay in creditor coordination
+MOZ,MOZ_2016,Hidden debt scandal,2016,2019,sovereign_default,,,,Y,external,2019 restructuring after undisclosed loans surfaced,False,Tuna-bond loans concealed from parliament and the IMF
+NGA,NGA_2015,Oil bust and FX regime,2015,2017,currency|stagflation,,,,N,,Multiple exchange windows; partial liberalisation,False,
+NGA,NGA_2023,FX and subsidy reform,2023,2024,currency|inflation_crisis,,,,N,,Naira floated; fuel subsidy removed,False,
+AGO,AGO_2015,Oil dependence shock,2015,2020,currency|debt_restructuring,,,,Y,,Kwanza depegged; G20 DSSI relief,False,
+EGY,EGY_2016,FX shortage and float,2016,2016,currency|balance_of_payments,,,,Y,,Pound floated November 2016,False,
+EGY,EGY_2022,Second FX crisis,2022,2024,currency|balance_of_payments,,,,Y,,Devaluations; large Gulf investment inflow 2024,False,
+PAK,PAK_2022,Balance of payments crisis,2022,2023,balance_of_payments|currency|inflation_crisis,,,,Y,,SBA 2023; import controls,False,One of many recurrent IMF programmes since the 1980s
+TUN,TUN_2011,Post-revolution fiscal drift,2011,2024,fiscal|debt_restructuring,,,,Y,,Unresolved; wage bill and subsidies remain high,False,
+JAM,JAM_2010,Debt trap and two exchanges,2010,2013,debt_restructuring,,,,Y,domestic,JDX 2010 and NDX 2013; both domestic,False,Notably high debt-to-GDP with no external default
+SUR,SUR_2016,Serial default,2016,2023,sovereign_default|inflation_crisis|currency,,,,Y,external,Restructured 2023,False,
+SDN,SDN_2018,Isolation and hyperinflation,2018,2021,hyperinflation|sovereign_default,,,,Y,external,HIPC decision point 2021; then conflict,False,Long-standing arrears preceded the episode
+BLR,BLR_2011,Directed-lending crisis,2011,2011,currency|inflation_crisis,,,,N,,Large devaluation,False,State-directed credit programmes drove the imbalance
+BLR,BLR_2020,Sanctions and default,2020,2024,currency|sovereign_default,,,,N,external,2022 payment blockage,False,
+MNG,MNG_2014,Commodity boom-bust,2014,2017,sudden_stop|balance_of_payments,,,,Y,,EFF 2017 with bilateral support,False,
+MMR,MMR_2021,Post-coup collapse,2021,2024,currency|external_shock,,,,N,,Unresolved; FX controls,False,
+IRN,IRN_2012,Sanctions and rial collapse,2012,2015,currency|inflation_crisis,,,,N,,Partial relief under the 2015 nuclear deal,False,
+IRN,IRN_2018,Renewed sanctions,2018,2024,currency|inflation_crisis,,,,N,,Unresolved,False,Large parallel-market premium
+DZA,DZA_2014,Hydrocarbon fiscal shock,2014,2024,fiscal|external_shock,,,,N,,Reserve drawdown; monetary financing 2017-19,False,
+IRQ,IRQ_2014,Conflict and oil shock,2014,2017,fiscal|external_shock,,,,Y,,SBA; oil price recovery,False,
+ZAF,ZAF_2012,Slow decline and power crisis,2012,2024,stagnation|fiscal,,,,N,,Unresolved; Eskom debt takeover 2023,False,Load-shedding as a persistent supply constraint
+ITA,ITA_2011,Spread crisis,2011,2013,debt_restructuring|stagnation,,,,N,,ECB OMT announcement ended the acute phase,False,No programme; the stagnation long predates 2011
+PHL,PHL_1983,Marcos debt crisis,1983,1986,sovereign_default|currency,,,,Y,external,Restructuring after the 1986 change of government,False,
