@@ -72,6 +72,7 @@ The Power BI report has these sections: Introduction, Research Question, Methodo
 **Erica Jean Fortu**
 Email: fortuerica@gmail.com
 GitHub: [stateri-science](https://github.com/stateri-science)
+Portfolio: https://datascienceportfol.io/fortuerica
 
 ## License
 
